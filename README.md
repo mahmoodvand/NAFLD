@@ -1,2 +1,6 @@
 # NAFLD
 Machine Learning Aproach for finding the relation between Non Advanced Fibrosis Liver Disease(NAFLD) and Diabetics
+
+Machine learning has emerged as a powerful tool in medical research and diagnostics, demonstrating the capability to analyze complex datasets and generate predictive models with high accuracy. Leveraging machine learning algorithms on comprehensive datasets that encompass clinical, biochemical, and imaging data, we can develop predictive models tailored to identify diabetic patients at a higher risk of advanced fibrosis. By harnessing the potential of machine learning, we aim to create a robust and efficient risk stratification system, enabling early identification and intervention for those patients who may benefit most from targeted therapies and lifestyle modifications.
+
+I present the findings of my machine learning project that endeavors to predict the progression of NAFLD to advanced fibrosis among individuals diagnosed with diabetes. We have utilized a meta data and gene expression dataset to train and validate predictive models. Through this research, we aim to contribute to the growing body of knowledge surrounding NAFLD and diabetes, while also providing valuable insights into the application of machine learning techniques in the field of hepatology and non-invasive liver disease assessment.
